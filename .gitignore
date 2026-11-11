@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+=======
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+>>>>>>> 3e6f3707fd90caa207f45d3413eb007bf0a74d7b
